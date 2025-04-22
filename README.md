@@ -27,7 +27,7 @@ This project applies advanced regression techniques in R to predict house prices
 ---
 
 ## Project Structure
-house-price-regression-r/ ├── house_price_regression.R # Main R script ├── data/ # Raw dataset (optional) ├── outputs/ # Model outputs and summaries ├── screenshots/ # Visuals and plots └── README.md # Project overview
+```house-price-regression-r/ ├── house_price_regression.R # Main R script ├── data/ # Raw dataset (optional) ├── outputs/ # Model outputs and summaries ├── screenshots/ # Visuals and plots └── README.md # Project overview```
 
 ---
 
