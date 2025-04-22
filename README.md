@@ -27,3 +27,25 @@ This project applies advanced regression techniques in R to predict house prices
 ---
 
 ## Project Structure
+. ├── house_price_regression.R # Main R script ├── data/ # Dataset (if included) ├── outputs/ # Model summaries or results ├── screenshots/ # Any visual output └── README.md # Project overview
+
+yaml
+Copy
+Edit
+
+---
+
+## Key Takeaways
+- Improved performance by transforming skewed variables
+- Learned how to tune models using `glmnet`, `caret`, and regularization
+- Practiced real-world EDA and ML modeling in R
+
+---
+
+## Author
+**Anastasiya Kotelnikova**  
+[GitHub Profile](https://github.com/AnastasiyaKotelnikova) • [Portfolio Website](https://anastasiyakotelnikova.github.io) • [LinkedIn](https://www.linkedin.com/in/anastasiyakotelnikova-511660346)
+
+---
+
+
