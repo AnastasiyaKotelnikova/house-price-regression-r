@@ -47,8 +47,5 @@ house-price-regression-r/
 
 ## Author
 **Anastasiya Kotelnikova**  
-[GitHub Profile](https://github.com/AnastasiyaKotelnikova) • [Portfolio Website](https://anastasiyakotelnikova.github.io) • [LinkedIn](https://www.linkedin.com/in/anastasiyakotelnikova-511660346)
-
----
-
+[GitHub Profile](https://github.com/AnastasiyaKotelnikova) • [Portfolio Website](https://anastasiyakotelnikova.github.io/Portfolio/) • [LinkedIn](https://www.linkedin.com/in/anastasiyakotelnikova/)
 
